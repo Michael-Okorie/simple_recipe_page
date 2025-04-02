@@ -23,7 +23,7 @@ This is my solution to the [Recipe Page Challenge on Frontend Mentor](https://ww
 
 ### 🖼️ Screenshot
 
-![Recipe Page Screenshot](./screenshots/Screenshot.png)
+![Recipe Page Screenshot](./screenshots/screenshot.png)
 
 ### 🔗 Links
 
