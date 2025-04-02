@@ -1,5 +1,3 @@
-# recipe-page
-
 # 🍽️ Frontend Mentor - Recipe Page Solution
 
 This is my solution to the [Recipe Page Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help improve coding skills by building real-world projects.
@@ -29,7 +27,7 @@ This is my solution to the [Recipe Page Challenge on Frontend Mentor](https://ww
 
 ### 🔗 Links
 
-- Solution URL: [View my solution](https://your-solution-url.com)
+- Solution URL: [View my solution](https://github.com/Michael-Okorie/simple_recipe_page.git)
 - Live Site URL: [Check it out live](https://your-live-site-url.com)
 
 ---
