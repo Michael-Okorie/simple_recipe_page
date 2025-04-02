@@ -20,7 +20,7 @@ body{
 }
 
 .card{
-    width: 450px;
+    width: 650px;
     height: auto;
     padding: 30px;
     margin: 50px auto;
@@ -110,7 +110,7 @@ ul, ol{
 }
 
 table{
-    width: 360px;
+    width: 560px;
     border-collapse: collapse;
 }
 
