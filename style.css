@@ -17,13 +17,21 @@
 
 body{
     background-color: hsl(30, 54%, 90%);
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin: 50px auto;
+    padding-bottom: 50px;
 }
 
 .card{
-    width: 650px;
+    width: 100%;
+    margin: 20px;      
+    max-width: 650px;
     height: auto;
     padding: 30px;
-    margin: 50px auto;
     background: hsl(0, 0%, 100%);
     color: hsl(30, 10%, 34%);
     border-radius: 10px;
@@ -46,6 +54,7 @@ h4{
 
 img{
     width: 100%;
+    height: auto;
     border-radius: 10px;
 }
 
@@ -108,8 +117,14 @@ ul, ol{
     padding-bottom: 10px;
 }
 
+.table-wrapper {
+    overflow-x: auto;
+    width: 100%;
+}
+  
+
 table{
-    width: 560px;
+    width: 100%;
     border-collapse: collapse;
 }
 
@@ -125,6 +140,33 @@ td{
     color: hsl(14, 45%, 36%);
 }
 
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+/*
+@media screen and (max-width: 600px) {
+    body {
+      padding: 20px;
+      margin: 0;
+    }
+  
+    .card {
+      padding: 20px;
+    }
+  
+    .content {
+      font-size: 14px;
+    }
+  
+    td {
+      padding: 8px 10px;
+    }
+  }
+*/  
+
 .attribution { 
     font-size: 18px; 
     text-align: center; 
@@ -138,4 +180,5 @@ td{
 
 .attribution a:hover{
     text-shadow: -2px -2px 8px hsl(14, 45%, 56%);
+    filter: brightness(150%);
 }
